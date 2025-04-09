@@ -1,0 +1,3 @@
+[submodule "dependencies/gpu-math"]
+	path = dependencies/gpu-math
+	url = ../gpu-math
